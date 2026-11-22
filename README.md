@@ -19,3 +19,7 @@ How to install for PC:
 4. Then into the AppData folder
 5. Into the Local folder
 6. And look for the UNDERTALE folder and drop the save you need into it
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+This build is not entirely mine — I put together the PC files using https://users.playground.ru/1954545/ and https://www.speedrun.com/undertale/resources/b98o0, but I made the PS4 files entirely by myself without anyone's help.
